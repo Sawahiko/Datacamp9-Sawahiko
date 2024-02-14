@@ -30,7 +30,7 @@ category columns : manufacturer, model, year, cyl, trans, drv, fl, class
 
 Thank for more information from [Exploration of MPG
 Dataset](https://rpubs.com/shailesh/mpg-exploration)
-![caption](homework_data_viz_sky_sawahiko_files/Picture_to_add.png)
+![caption](homework_data_viz_sky_sawahiko_files/Picture_to_add.PNG)
 
 ## 1. Chart 1 : How famous of each class of car in the different decade.
 
